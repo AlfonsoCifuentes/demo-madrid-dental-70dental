@@ -39,7 +39,7 @@ La propuesta esta pensada como una web comercial para clinica dental, con foco e
 | Complejidad | Beginner |
 | Lenguaje principal | HTML |
 | Primera version | 9 de mayo de 2026 |
-| Ultima actualizacion | 12 de mayo de 2026 |
+| Ultima actualizacion | 21 de mayo de 2026 |
 
 ## Enlaces
 
